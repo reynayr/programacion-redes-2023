@@ -1,7 +1,7 @@
 ﻿''' 
- Nombre: Eder Gael Saldaña Galván
+ Nombre: Reyna Yazmin Ríos Martínez
  Laboratorio: Proyecto 4.7.1.2
- Fecha: 9/Octubre/2023
+ Fecha: 15/Oct/2023
 '''
 
 from collections import deque
